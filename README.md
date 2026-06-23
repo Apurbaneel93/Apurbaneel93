@@ -24,14 +24,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Apurbaneel93&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Apurbaneel93&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 📊 GitHub Stats
-
-![Apurba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apurbaneel93&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apurbaneel93&layout=compact)
