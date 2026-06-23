@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Apurba Nath</h1>
 <h3 align="center">A passionate WordPress & Shopify Developer from India</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Apurbaneel93&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 # 💫 About Me:
 💼 6+ Years Experience<br>🛒 Shopify Theme Development<br>🌐 WordPress Development<br>⚡ PHP, Liquid, JavaScript, CSS<br>🔧 Custom App & API Integrations<br>🌱 Learning Headless Commerce
